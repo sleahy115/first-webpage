@@ -1,4 +1,4 @@
-# _{My first webpage }_
+# _My first webpage_
 
 #### _{Simple site using HTML}, {01/02/17}_
 
