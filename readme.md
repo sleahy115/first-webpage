@@ -1,12 +1,12 @@
 # _My first webpage_
 
-#### _{Simple site using HTML}, {01/02/17}_
+#### _Simple site using HTML}, {01/02/17_
 
-#### By _**{Sarah Leahy, Jennifer Beem}**_
+#### By _**Sarah Leahy, Jennifer Beem**_
 
 ## Description
 
-_{Simple page with HTML elements}_
+_Simple page with HTML elements_
 
 ## Setup/Installation Requirements
 
@@ -16,14 +16,14 @@ _{Simple page with HTML elements}_
 
 ## Support and contact details
 
-_{for support or suggestions contact Sarah Leahy sleahy115@gmail.com}_
+_for support or suggestions contact Sarah Leahy sleahy115@gmail.com_
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
 ### License
 
-*{MIT license}*
+*MIT license*
 
-Copyright (c) 2017 **_{Sarah Leahy, Jennifer Beem}_**
+Copyright (c) 2017 **_Sarah Leahy, Jennifer Beem_**
